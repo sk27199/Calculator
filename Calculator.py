@@ -1,8 +1,8 @@
-tries = 0 
+tries = 0
 
 while True:
 
-          operator = input("Enter one of the following operators +-*/:  ")
+          operator = input("Enter one of the following operators +-*/% ** // :  ")
           num1 = float(input("Enter the first number: "))
           num2 = float(input("Enter the second number: "))
 
@@ -20,6 +20,15 @@ while True:
           elif operator == "/":
               result = (num1 / num2)
               print(round(result,2))
+          elif operator == "%":
+              result = (num1 % num2)
+              print(round(result, 2))
+          elif operator == "**":
+              result = (num1 ** num2)
+              print(round(result, 2))
+          elif operator == "//":
+              result = (num1 // num2)
+              print(round(result, 2))
           else:
               print("Invalid")
 
