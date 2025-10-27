@@ -1,11 +1,11 @@
-# 🧮 Basic Python Calculator
+**Basic Python Calculator**
 
 A simple Python calculator that performs basic operations like addition, subtraction, multiplication, and division.  
 It also counts how many calculations have been performed and loops until the user decides to exit.
 
 ---
 
-## 🎯 Features
+**Features**
 - Add, subtract, multiply, and divide two numbers  
 - Loops for multiple calculations  
 - Counts how many calculations you’ve done  
@@ -14,7 +14,7 @@ It also counts how many calculations have been performed and loops until the use
 
 ---
 
-## 🧠 What I Learned
+**What I Learned**
 - How to use loops and conditionals  
 - How to use variables to track progress  
 - How to use `break` to exit a loop  
@@ -22,7 +22,7 @@ It also counts how many calculations have been performed and loops until the use
 
 ---
 
-## 🚀 Future Improvements
+**Future Improvements**
 - Add exponentiation and square roots  
 - Add error handling (e.g., invalid input)  
 - Make a menu with more operations  
@@ -30,4 +30,4 @@ It also counts how many calculations have been performed and loops until the use
 
 ---
 
-Created by Shrish Umamaheswaran
+**Created by Shrish Umamaheswaran**
